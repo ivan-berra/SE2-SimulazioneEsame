@@ -1,0 +1,22 @@
+{
+  "name": "se2-simulazioneesame",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivan-berra/SE2-SimulazioneEsame.git"
+  },
+  "author": "Ivan Berra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ivan-berra/SE2-SimulazioneEsame/issues"
+  },
+  "homepage": "https://github.com/ivan-berra/SE2-SimulazioneEsame#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
